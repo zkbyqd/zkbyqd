@@ -1,6 +1,5 @@
-# 👾 Cybersecurity Playground 👾
+# 👾 Welcome to my Profile! 👾
 
-Welcome to my Profile! \
 I'm zkbyqd, a passionate cybersecurity enthusiast and CTF player from Germany 🇩🇪. \
 If you decrypt my name with ROT and one of my favorite numbers, you'll get ... . \
 For gaming, I usually go with "z"; for CTFs/Wargames, I go with "z0". \
