@@ -22,7 +22,7 @@ I'm a 23-year-old cybersecurity student with a burning desire to delve deeper in
 
 📧 Email: [z0@zkbyqd.z](mailto:z0@zkbyqd.z) \
 🤖 Discord: [zkbyqd](discord.gg/RpX9VxYA) \
-🐦 X: [zkbyqd](https://x.com/zkbyqd) \
+🐦 X: [zkbyqd](https://x.com/zkbyqd)
 
 I'm always eager to collaborate on cybersecurity projects, CTF challenges, or just engage in discussions about all things cybersecurity. If you're interested, don't hesitate to reach out!
 
