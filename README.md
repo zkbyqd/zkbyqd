@@ -25,9 +25,4 @@ I'm zkbyqd, a 23-year-old, passionate cybersecurity enthusiast and CTF player fr
 
 I'm always eager to collaborate on cybersecurity projects, CTF challenges, or just engage in discussions about all things cybersecurity. If you're interested, don't hesitate to reach out!
 
-## ➕ Extras
-
-If you decrypt my name with ROT and one of my favorite numbers, you'll get ... . \
-For gaming, I usually go with "z"; for CTFs/Wargames, I go with "z0". 
-
 P.S. Privacy Matters
