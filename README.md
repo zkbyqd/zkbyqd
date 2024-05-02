@@ -9,7 +9,7 @@ I'm zkbyqd aka z0, a 23-year-old, passionate cybersecurity enthusiast and CTF pl
 - 🚀 Aspiring Pentester
 - 🛠️ CTF and Wargame Enthusiast (currently playing for "CTF - HAW/THL")
 - 🧑‍💻 Python, Bash, PowerShell
-- 🖤 basics, misc, re, pwn,  net, wireless, blockchain, ad/ldap/ds, hardware
+- 🖤 basics, misc, re, pwn,  net, wireless, blockchain, hardware
 
 ## 💡 Goals
 
