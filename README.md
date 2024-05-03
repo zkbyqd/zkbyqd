@@ -26,7 +26,7 @@ I'm zkbyqd aka z0 / zNull, a 23-year-old, passionate cybersecurity enthusiast an
 
 ## 📫 Contact Me
 
-📧 Email: [z0@zkbyqd.z](mailto:z0@zkbyqd.z) \
+📧 Email: [zkbyqd@pm.me](mailto:zkbyqd@pm.me) \
 🤖 Discord: [zkbyqd](discord.gg/RpX9VxYA) \
 🐦 X: [zkbyqd](https://x.com/zkbyqd)
 
