@@ -22,6 +22,7 @@ I'm zkbyqd aka z0 / zNull, a 23-year-old, passionate cybersecurity enthusiast an
 - 👾 My other interests are: personality development, sports, cooking, fashion design, interior design, reading, music, and gaming
 - 🍵 I enjoy good Tea
 - 🌐 In <3 with OpenSource
+- 🪄 Shell Wizard
 
 ## 📫 Contact Me
 
