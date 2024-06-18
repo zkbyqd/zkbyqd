@@ -1,6 +1,6 @@
 # 🕷️ Welcome to my Profile! 🕷️
 
-I'm zkbyqd aka z0 / zNull, a 23-year-old, passionate cybersecurity enthusiast and CTF player from Hamburg, Germany 🇩🇪 with a burning desire to delve deeper into the realms of cybersecurity, penetration testing, and ethical hacking.
+I'm Julian aka zkbyqd aka z0 / zNull, a 23-year-old, passionate cybersecurity enthusiast and CTF player from Hamburg, Germany 🇩🇪 with a burning desire to delve deeper into the realms of cybersecurity, penetration testing, and ethical hacking.
 
 
 ## 🎮 About Me
