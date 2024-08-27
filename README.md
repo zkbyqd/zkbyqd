@@ -9,7 +9,7 @@ Looking forward, I am keen to steer my focus towards Quantum Computing, with a p
 - 🚀 Aspiring Pentester
 - 🛠️ CTF and Wargame Enthusiast (currently playing for "HAW/THL" and "Hack Smarter")
 - 🧑‍💻 Python, Bash, PowerShell
-- 🖤 basics, misc, re, pwn, net, wireless, blockchain, hardware
+- 🖤 basics, misc, re, pwn, net, wireless, crypto, hardware
 
 ## 💡 Goals
 
